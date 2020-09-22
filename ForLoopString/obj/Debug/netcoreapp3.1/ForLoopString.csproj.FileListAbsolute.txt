@@ -1,0 +1,12 @@
+C:\Users\julia.voronetskaja\source\repos\ForLoops\ForLoopString\bin\Debug\netcoreapp3.1\ForLoopString.exe
+C:\Users\julia.voronetskaja\source\repos\ForLoops\ForLoopString\bin\Debug\netcoreapp3.1\ForLoopString.deps.json
+C:\Users\julia.voronetskaja\source\repos\ForLoops\ForLoopString\bin\Debug\netcoreapp3.1\ForLoopString.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\ForLoops\ForLoopString\bin\Debug\netcoreapp3.1\ForLoopString.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\ForLoops\ForLoopString\bin\Debug\netcoreapp3.1\ForLoopString.dll
+C:\Users\julia.voronetskaja\source\repos\ForLoops\ForLoopString\bin\Debug\netcoreapp3.1\ForLoopString.pdb
+C:\Users\julia.voronetskaja\source\repos\ForLoops\ForLoopString\obj\Debug\netcoreapp3.1\ForLoopString.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\ForLoops\ForLoopString\obj\Debug\netcoreapp3.1\ForLoopString.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\ForLoops\ForLoopString\obj\Debug\netcoreapp3.1\ForLoopString.csproj.CoreCompileInputs.cache
+C:\Users\julia.voronetskaja\source\repos\ForLoops\ForLoopString\obj\Debug\netcoreapp3.1\ForLoopString.dll
+C:\Users\julia.voronetskaja\source\repos\ForLoops\ForLoopString\obj\Debug\netcoreapp3.1\ForLoopString.pdb
+C:\Users\julia.voronetskaja\source\repos\ForLoops\ForLoopString\obj\Debug\netcoreapp3.1\ForLoopString.genruntimeconfig.cache

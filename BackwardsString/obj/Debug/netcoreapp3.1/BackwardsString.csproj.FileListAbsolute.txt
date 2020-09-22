@@ -1,0 +1,13 @@
+C:\Users\julia.voronetskaja\source\repos\ForLoops\BackwardsString\bin\Debug\netcoreapp3.1\BackwardsString.exe
+C:\Users\julia.voronetskaja\source\repos\ForLoops\BackwardsString\bin\Debug\netcoreapp3.1\BackwardsString.deps.json
+C:\Users\julia.voronetskaja\source\repos\ForLoops\BackwardsString\bin\Debug\netcoreapp3.1\BackwardsString.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\ForLoops\BackwardsString\bin\Debug\netcoreapp3.1\BackwardsString.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\ForLoops\BackwardsString\bin\Debug\netcoreapp3.1\BackwardsString.dll
+C:\Users\julia.voronetskaja\source\repos\ForLoops\BackwardsString\bin\Debug\netcoreapp3.1\BackwardsString.pdb
+C:\Users\julia.voronetskaja\source\repos\ForLoops\BackwardsString\obj\Debug\netcoreapp3.1\BackwardsString.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\ForLoops\BackwardsString\obj\Debug\netcoreapp3.1\BackwardsString.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\ForLoops\BackwardsString\obj\Debug\netcoreapp3.1\BackwardsString.csproj.CoreCompileInputs.cache
+C:\Users\julia.voronetskaja\source\repos\ForLoops\BackwardsString\obj\Debug\netcoreapp3.1\BackwardsString.dll
+C:\Users\julia.voronetskaja\source\repos\ForLoops\BackwardsString\obj\Debug\netcoreapp3.1\BackwardsString.pdb
+C:\Users\julia.voronetskaja\source\repos\ForLoops\BackwardsString\obj\Debug\netcoreapp3.1\BackwardsString.genruntimeconfig.cache
+C:\Users\julia.voronetskaja\source\repos\ForLoops\BackwardsString\obj\Debug\netcoreapp3.1\BackwardsString.csprojAssemblyReference.cache

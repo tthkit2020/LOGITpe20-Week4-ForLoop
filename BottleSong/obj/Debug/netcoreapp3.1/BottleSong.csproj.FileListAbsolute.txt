@@ -1,0 +1,13 @@
+C:\Users\julia.voronetskaja\source\repos\ForLoops\BottleSong\bin\Debug\netcoreapp3.1\BottleSong.exe
+C:\Users\julia.voronetskaja\source\repos\ForLoops\BottleSong\bin\Debug\netcoreapp3.1\BottleSong.deps.json
+C:\Users\julia.voronetskaja\source\repos\ForLoops\BottleSong\bin\Debug\netcoreapp3.1\BottleSong.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\ForLoops\BottleSong\bin\Debug\netcoreapp3.1\BottleSong.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\ForLoops\BottleSong\bin\Debug\netcoreapp3.1\BottleSong.dll
+C:\Users\julia.voronetskaja\source\repos\ForLoops\BottleSong\bin\Debug\netcoreapp3.1\BottleSong.pdb
+C:\Users\julia.voronetskaja\source\repos\ForLoops\BottleSong\obj\Debug\netcoreapp3.1\BottleSong.csprojAssemblyReference.cache
+C:\Users\julia.voronetskaja\source\repos\ForLoops\BottleSong\obj\Debug\netcoreapp3.1\BottleSong.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\ForLoops\BottleSong\obj\Debug\netcoreapp3.1\BottleSong.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\ForLoops\BottleSong\obj\Debug\netcoreapp3.1\BottleSong.csproj.CoreCompileInputs.cache
+C:\Users\julia.voronetskaja\source\repos\ForLoops\BottleSong\obj\Debug\netcoreapp3.1\BottleSong.dll
+C:\Users\julia.voronetskaja\source\repos\ForLoops\BottleSong\obj\Debug\netcoreapp3.1\BottleSong.pdb
+C:\Users\julia.voronetskaja\source\repos\ForLoops\BottleSong\obj\Debug\netcoreapp3.1\BottleSong.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\julia.voronetskaja\source\repos\ForLoops\AInString\bin\Debug\netcoreapp3.1\AInString.exe
+C:\Users\julia.voronetskaja\source\repos\ForLoops\AInString\bin\Debug\netcoreapp3.1\AInString.deps.json
+C:\Users\julia.voronetskaja\source\repos\ForLoops\AInString\bin\Debug\netcoreapp3.1\AInString.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\ForLoops\AInString\bin\Debug\netcoreapp3.1\AInString.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\ForLoops\AInString\bin\Debug\netcoreapp3.1\AInString.dll
+C:\Users\julia.voronetskaja\source\repos\ForLoops\AInString\bin\Debug\netcoreapp3.1\AInString.pdb
+C:\Users\julia.voronetskaja\source\repos\ForLoops\AInString\obj\Debug\netcoreapp3.1\AInString.csprojAssemblyReference.cache
+C:\Users\julia.voronetskaja\source\repos\ForLoops\AInString\obj\Debug\netcoreapp3.1\AInString.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\ForLoops\AInString\obj\Debug\netcoreapp3.1\AInString.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\ForLoops\AInString\obj\Debug\netcoreapp3.1\AInString.csproj.CoreCompileInputs.cache
+C:\Users\julia.voronetskaja\source\repos\ForLoops\AInString\obj\Debug\netcoreapp3.1\AInString.dll
+C:\Users\julia.voronetskaja\source\repos\ForLoops\AInString\obj\Debug\netcoreapp3.1\AInString.pdb
+C:\Users\julia.voronetskaja\source\repos\ForLoops\AInString\obj\Debug\netcoreapp3.1\AInString.genruntimeconfig.cache

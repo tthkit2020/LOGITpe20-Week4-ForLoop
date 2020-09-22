@@ -1,0 +1,13 @@
+C:\Users\julia.voronetskaja\source\repos\ForLoops\CountDown\bin\Debug\netcoreapp3.1\CountDown.exe
+C:\Users\julia.voronetskaja\source\repos\ForLoops\CountDown\bin\Debug\netcoreapp3.1\CountDown.deps.json
+C:\Users\julia.voronetskaja\source\repos\ForLoops\CountDown\bin\Debug\netcoreapp3.1\CountDown.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\ForLoops\CountDown\bin\Debug\netcoreapp3.1\CountDown.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\ForLoops\CountDown\bin\Debug\netcoreapp3.1\CountDown.dll
+C:\Users\julia.voronetskaja\source\repos\ForLoops\CountDown\bin\Debug\netcoreapp3.1\CountDown.pdb
+C:\Users\julia.voronetskaja\source\repos\ForLoops\CountDown\obj\Debug\netcoreapp3.1\CountDown.csprojAssemblyReference.cache
+C:\Users\julia.voronetskaja\source\repos\ForLoops\CountDown\obj\Debug\netcoreapp3.1\CountDown.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\ForLoops\CountDown\obj\Debug\netcoreapp3.1\CountDown.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\ForLoops\CountDown\obj\Debug\netcoreapp3.1\CountDown.csproj.CoreCompileInputs.cache
+C:\Users\julia.voronetskaja\source\repos\ForLoops\CountDown\obj\Debug\netcoreapp3.1\CountDown.dll
+C:\Users\julia.voronetskaja\source\repos\ForLoops\CountDown\obj\Debug\netcoreapp3.1\CountDown.pdb
+C:\Users\julia.voronetskaja\source\repos\ForLoops\CountDown\obj\Debug\netcoreapp3.1\CountDown.genruntimeconfig.cache
